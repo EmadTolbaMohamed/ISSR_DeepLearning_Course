@@ -9,7 +9,7 @@ This repository wil contain the code of _**Introduction To Deep Learning Course*
       * Python 
       * Numpy
       * Pandas
-      * Matplotlib
+    
   
   * Lecture 2
 
