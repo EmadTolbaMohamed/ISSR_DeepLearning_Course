@@ -20,7 +20,8 @@ This repository wil contain the code of _**Introduction To Deep Learning Course*
   * Lecture 5
   
   * Lecture 6
-      CNN with Keras hosted in kaggle
+      CNN with Keras hosted on kaggle
+      
       https://www.kaggle.com/emadtolba/cnn-with-keras
 
 
