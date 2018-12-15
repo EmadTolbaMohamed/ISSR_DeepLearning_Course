@@ -12,5 +12,15 @@ This repository wil contain the code of _**Introduction To Deep Learning Course*
     
   
   * Lecture 2
+  
+  * Lecture 3
+  
+  * Lecture 4
+  
+  * Lecture 5
+  
+  * Lecture 6
+      CNN with Keras hosted in kaggle
+      https://www.kaggle.com/emadtolba/cnn-with-keras
 
 
